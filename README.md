@@ -2,6 +2,6 @@
 
 Un bot discord basique.
 
-Packages à installez : 
+Packages à installer: 
 - Moment 
 - Discord.js
